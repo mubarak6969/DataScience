@@ -21,3 +21,16 @@ This project contains Exploratory Data Analysis (EDA) for an eCommerce transacti
 3. Peak sales occur in November and December due to the festive season.
 4. Products P1234 and P5678 are the top sellers.
 5. Most transactions involve smaller quantities (1–3 items).
+
+## Lookalike Model: Customer Recommendations
+This project builds a Lookalike Model to recommend the top 3 similar customers for each customer in the dataset.
+
+### Files:
+- `FirstName_LastName_Lookalike.ipynb`: Notebook with the implementation.
+- `FirstName_LastName_Lookalike.csv`: CSV file containing the recommendations.
+
+### Steps to Run:
+1. Clone the repository.
+2. Install required libraries: `pandas`, `scikit-learn`.
+3. Open and run the Jupyter Notebook.
+
