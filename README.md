@@ -34,3 +34,27 @@ This project builds a Lookalike Model to recommend the top 3 similar customers f
 2. Install required libraries: `pandas`, `scikit-learn`.
 3. Open and run the Jupyter Notebook.
 
+# Customer Segmentation Using Clustering
+
+## Overview
+This task involves segmenting customers into distinct clusters based on their profiles and transaction data. The segmentation helps in identifying customer groups for targeted marketing strategies.
+
+---
+
+## Files
+| File Name                              | Description                                                |
+|----------------------------------------|------------------------------------------------------------|
+| `FirstName_LastName_Clustering.ipynb`  | Jupyter Notebook implementing clustering techniques.       |
+| `FirstName_LastName_Clustering.csv`    | CSV file listing customer IDs and their assigned clusters. |
+| `FirstName_LastName_Clustering_Report.pdf`| PDF report summarizing clustering results and insights.   |
+
+---
+
+## Steps to Run the Clustering Notebook
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
+   cd your-repository-name
+
+
+
